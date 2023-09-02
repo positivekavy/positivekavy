@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @kanika verma
-- 👀 I’m interested in ...
+- 👀 I’m interested in 
 - 🌱 I’m currently learning Data structures and algorithms and web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on  
+- 📫 How to reach me on instagram @kanika_0510
+-  my linked profile-https://www.linkedin.com/in/kanika-verma-73a41a263
 
 <!---
 positivekavy/positivekavy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
